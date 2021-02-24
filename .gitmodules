@@ -1,0 +1,3 @@
+[submodule "Schooshi_welcome_bot"]
+	path = Schooshi_welcome_bot
+	url = https://github.com/anyangpeng/Schooshi_welcome_bot.git
